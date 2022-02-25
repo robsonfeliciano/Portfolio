@@ -1,7 +1,7 @@
 # Portfolio
 Data Portfolio
 
-#1 - SQL Project
+#1 - [SQL Project](https://github.com/robsonfeliciano/Portfolio/blob/main/sql_project.sql)
 - Analysis of the Amazon stock since IPO
 - Use SQL to create new columns and analysis deeper the data
 - Join Covid cases table and verify the impact in the stock price
