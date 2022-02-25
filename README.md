@@ -11,7 +11,7 @@ Data Portfolio
 - Compare the trending topics with the Bolsonaro Approval
 - Check the amount of Bolsonaro mentions in the trending topics
 
-#3 - Python Project
+#3 - [Python Project](https://github.com/robsonfeliciano/Portfolio/blob/main/project-linkedin.ipynb]
 - Web scrapping data from LinkedIn Profiles
 - Collect the data from the profile in Data field
 - Analysis the main skills to join the market
