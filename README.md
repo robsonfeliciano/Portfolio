@@ -6,7 +6,7 @@ Data Portfolio
 - Use SQL to create new columns and analysis deeper the data
 - Join Covid cases table and verify the impact in the stock price
 
-#2 - Tableau Project
+#2 - [Tableau Project](https://public.tableau.com/app/profile/robson.feliciano/viz/BrazilianElection/Story1)
 - Analysis of the twitter trending topics during the 2018 Brazilian Elections.
 - Compare the trending topics with the Bolsonaro Approval
 - Check the amount of Bolsonaro mentions in the trending topics
